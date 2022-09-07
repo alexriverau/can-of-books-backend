@@ -2,7 +2,7 @@
 
 
 **Author**: created by Alejandro, Daniel, and Lauren 
-**Version**: 1.0.4
+**Version**: 1.0.3
 
 ## Overview
 [Visit our site on Netlify here](https://canbooksdb.netlify.app/)
@@ -22,7 +22,8 @@ JavaScript, React, Bootstrap, Node.js, Mongo, Heroku, Mongoose
 <li> Add post method:  8/24/2022 </li>
 <li> Add delete method: 8/24/2022</li>
 <li> Add put method: 8/27/2022</li>
-<li> Add authO: 9/6/2022</li>
+<li>  </li>
+<li> </li>
 </ul>
 
 ## Estimates
@@ -96,19 +97,6 @@ Start time: 2:00pm
 Finish time: 5:45pm
 
 Actual time needed to complete: 3 hours and 45 minutes
-######################################################
-
-### Lab 15
-
-Name of feature: Add authO method
-
-Estimate of time needed to complete: 3 hours
-
-Start time: 10:00pm to 11:00pm, 2:00pm to 3:10pm, 5:30pm to 6:00pm
-
-Finish time: 6:00pm
-
-Actual time needed to complete: 2 hours, 40 minutes
 ######################################################
 
 ## Collaborations
